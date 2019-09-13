@@ -1,2 +1,1 @@
-# CS4315-Operating-Systems
-Notes, code, homeworks, etc
+# Notes, code, homeworks, etc
